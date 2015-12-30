@@ -4,8 +4,8 @@ do
 end
 return {
   patterns = {
-      "^[/!%&$]([Rr]ealm)$",
-      "^([Rr]ealm)$"
+      "^[/!%&$]([Hh]elp)$",
+      "^([Hh]elp)$"
       }, 
   run = run 
 }
