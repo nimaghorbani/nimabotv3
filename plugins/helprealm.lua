@@ -7,6 +7,7 @@ do
 	function run(msg, matches)
 		return 'For CreatGroup Send PM For \n @MrGhor'
 end
+end
 return {
   patterns = {
       "^[/!%&$]([Hh]elp)$",
